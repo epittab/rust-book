@@ -15,8 +15,6 @@ fn main() {
         Some(val) => println!("{}", val)
     }
     
-
-
     let s = something();
     println!("{}", s);
 
